@@ -13,6 +13,7 @@ https://github.com/sowvino/libft
 cd libft
 ```
 ##Usage
+
 ```make``` to compile mandatory functions.
 
 ```make bonus``` to compile with bonus functions.
